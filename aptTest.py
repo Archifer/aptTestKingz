@@ -23,4 +23,11 @@ def hansDekkers(smallNum, largeNum):
         
     return resList
 
+def imagineUnitTests():
+    # you could write several unit tests checking the output lists from the Hans Dekker function
+    # and return a list / prints of tests that failed and passed
+    # due to time constraints i am leaving this as a falls outside of scope :)
+    return "good job"
+
+
 print(hansDekkers(3,4))
